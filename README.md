@@ -12,3 +12,7 @@ examples of how their service can benefit your business.
 ## Link to Website
 
 https://sulxy.github.io/Semantic-Challenge/
+
+## Credits
+
+All source code, files, and images were taken from https://github.com/coding-boot-camp/urban-octo-telegram and modified to meet criteria for an assignment. 
