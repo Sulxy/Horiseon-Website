@@ -1,6 +1,7 @@
 # Horiseon
 
-Horiseon is a search-engine optimized website that discusses the advantages of using their service to improve Search-Engine-Optimization, manage Online Reputation, and marketing to Social Media. 
+Horiseon is a website that discusses the advantages of using their service to improve Search-Engine-Optimization, manage Online Reputation, and marketing to Social Media; while also providing 
+examples of how their service can benefit your business. 
 
 ## Screenshot of Webpage
 
